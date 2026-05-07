@@ -1,3 +1,6 @@
+Level:Easy
+
+Question:
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
