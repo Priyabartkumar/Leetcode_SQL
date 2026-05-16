@@ -1,7 +1,5 @@
-Easy
-Topics
-premium lock icon
-Companies
+Level:Easy
+ Question:5
 SQL Schema
 Pandas Schema
 Table: Tweets
