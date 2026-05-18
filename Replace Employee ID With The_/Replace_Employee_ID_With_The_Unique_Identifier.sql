@@ -69,3 +69,11 @@ The unique ID of Winston is 3.
 The unique ID of Jonathan is 1.
 
 
+Query:
+SELECT 
+EmployeeUNI.unique_id,
+Employees.name
+From 
+Employees
+LEFT JOIN
+EmployeeUNI ON Employees.id = EmployeeUNI.id;
