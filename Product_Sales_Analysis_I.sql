@@ -23,6 +23,7 @@ Table: Product
 product_id is the primary key (column with unique values) of this table.
 Each row of this table indicates the product name of each product.
 
+Queries:
 Select 
 Product.product_name,
 Sales.year,
