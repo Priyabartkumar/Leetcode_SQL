@@ -1,5 +1,5 @@
+Level:Easy
 Question:1068
-
 +-------------+-------+
 | Column Name | Type  |
 +-------------+-------+
