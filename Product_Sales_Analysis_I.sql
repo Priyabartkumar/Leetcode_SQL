@@ -22,3 +22,10 @@ Table: Product
 +--------------+---------+
 product_id is the primary key (column with unique values) of this table.
 Each row of this table indicates the product name of each product.
+
+Select 
+Product.product_name,
+Sales.year,
+Sales.price
+From
+Product  right join  Sales On Product.product_id= Sales.product_id ;
