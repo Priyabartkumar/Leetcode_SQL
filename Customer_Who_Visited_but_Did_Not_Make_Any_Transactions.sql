@@ -1,5 +1,5 @@
 Level:Easy
-
+Question 7
 
 +-------------+---------+
 | Column Name | Type    |
