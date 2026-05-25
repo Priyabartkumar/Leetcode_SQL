@@ -1,3 +1,5 @@
+Question n.o 9
+Level: Easy
 Table: Weather
 
 +---------------+---------+
