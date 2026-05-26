@@ -66,4 +66,7 @@ Machine 1's average time is ((1.550 - 0.550) + (1.420 - 0.430)) / 2 = 0.995
 Machine 2's average time is ((4.512 - 4.100) + (5.000 - 2.500)) / 2 = 1.456
 
 Queries:
- 
+select machine_id, ROUND(AVG(end_time - start_time),3) as processing_time
+from (
+    Select machine_id,process_id, Max(Case when activity_type='end' then timestamp end) as end_time,
+    Max(Case when activity_type='start' then timestamp end) as start_time from Activity group by machine_id,process_id) as processing_time group by machine_id; 
