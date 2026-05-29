@@ -65,3 +65,5 @@ Output:
 | John | null  |
 | Dan  | 500   |
 +------+-------+
+
+Queries:
