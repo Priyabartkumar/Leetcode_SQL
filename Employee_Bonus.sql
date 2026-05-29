@@ -1,3 +1,6 @@
+Level:Easy
+ 
+
 577. Employee Bonus
 
 +-------------+---------+
