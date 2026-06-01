@@ -1,6 +1,6 @@
+Question:12
+
 Level:Easy
-
-
 Table: Students
 
 +---------------+---------+
