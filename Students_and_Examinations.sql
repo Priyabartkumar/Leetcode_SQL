@@ -1,3 +1,6 @@
+Level:Easy
+
+
 Table: Students
 
 +---------------+---------+
