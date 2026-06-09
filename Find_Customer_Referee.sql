@@ -1,5 +1,5 @@
 Level:Easy
-Question n.o 2:
+Question n.o= 02
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
